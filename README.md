@@ -12,11 +12,6 @@ Click [learn](https://simvic.xyz/learn/) to find out some more interesting topic
 - after successfull instalation of required dependences, now you can run the application.
 
 
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to support via [support@simvic.xyz](mailto:support@simvic.xyz). All security vulnerabilities will be promptly addressed.
-
-
 ### Support 
 
 [<img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" style="width:10%;">](https://www.buymeacoffee.com/eugeneibisz)
